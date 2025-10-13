@@ -1,0 +1,4 @@
+caminhar
+correr
+pular corda
+limpar casa
